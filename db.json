@@ -4,13 +4,13 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": 14
     },
     {
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 8
+      "likes": 16
     },
     {
       "id": 3,
@@ -47,6 +47,24 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": 1
+    },
+    {
+      "name": "Flame Projector",
+      "image": "https://i.ebayimg.com/images/g/a0QAAOSwvFpjKFIt/s-l500.jpg",
+      "likes": 0,
+      "id": 9
+    },
+    {
+      "name": "Wet Newspaper",
+      "image": "https://thumbs.dreamstime.com/z/old-wet-broken-newspaper-street-old-wet-broken-newspaper-street-s-floor-water-187424319.jpg",
+      "likes": 0,
+      "id": 10
+    },
+    {
+      "name": "Eaten Bread",
+      "image": "https://freefoodphotos.com/imagelibrary/bread/slides/eaten_rasin_toast.jpg",
+      "likes": 0,
+      "id": 11
     }
   ]
 }
